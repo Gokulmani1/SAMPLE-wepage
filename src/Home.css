@@ -1,0 +1,38 @@
+.cont{
+    
+    background-color: aqua;
+    
+}
+.para1{
+    font-size:50px;
+    font-weight:600;
+    font-family: fantasy;
+}
+.para2{
+    text-align: center;
+}
+.caption{
+    margin-bottom:200px;
+}
+.heading{
+    font-size:50px;
+    font-weight:bolder;
+}
+.nav{
+    justify-content:space-between;
+}
+
+.text1{
+        font-size:xx-large;
+        font-weight:bolder;
+        color: aliceblue;
+        
+}
+.btn1{
+  
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    color: blue;
+    outline: 2px solid blue;
+}
